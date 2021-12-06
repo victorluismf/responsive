@@ -9,7 +9,7 @@
   <p>Projeto feito com React JS, HTML e CSS.</p>
 
   <p>O objetivo era praticar algumas técnicas de responsividade que desenvolvi.</p>
-  
+  <br>
 </h4>
 
 <p align="center">
