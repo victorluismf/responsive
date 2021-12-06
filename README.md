@@ -13,7 +13,7 @@
 </h4>
 
 <p align="center">
-  <img alt="Scene" src="https://ik.imagekit.io/victorluismf/Responsive-Image_qziVxCAdyy.png?updatedAt=1638817885757">
+  <img alt="Scene" src="https://ik.imagekit.io/victorluismf/Responsive_xSY7ApbcYx.png?updatedAt=1638818280073">
 </p>
 
 <h1 align="center">
