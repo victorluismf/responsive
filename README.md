@@ -21,9 +21,9 @@
 </h1>
 
 <h4 align="center">
-    <p>Link: https://victorluismf.github.io/responsive/</p> 👋
+    <p>Link: https://victorluismf.github.io/responsive/</p>
 </h4>
 
 <h4 align="center">
-    <a href="https://www.linkedin.com/in/victorluismf/" target="_blank">Victor Luis</a> 👋
+    Meu <a href="https://www.linkedin.com/in/victorluismf/" target="_blank">Linkedin</a> 👋
 </h4>
