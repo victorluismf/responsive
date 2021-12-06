@@ -1,7 +1,15 @@
-# responsive
-<img src="https://ik.imagekit.io/victorluismf/readme-github_XH4rnt1rq6g.png?updatedAt=1638815950306">
+<h1 align="center">
+    <img alt="Logo" src="https://ik.imagekit.io/victorluismf/readme-github_XH4rnt1rq6g.png?updatedAt=1638815950306" />
+    <br>
+</h1>
 
-Projeto feito com React JS, HTML e CSS.
-O propósito desse projeto era colocar em prática algumas técnicas de responsividade com o CSS que aprendi e que desenvolvi ao longo dos últimos meses estudando.
+<h4 align="center">
+  <p>Victor Luis - Responsive</p>
+  
+  <p>Projeto feito com React JS, HTML e CSS.</p>
+
+  <p>O objetivo era colocar em prática algumas técnicas de responsividade que desenvolvi.</p>
+  
+</h4>
 
 Acesse aqui: https://victorluismf.github.io/responsive/
