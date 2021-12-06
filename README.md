@@ -4,7 +4,7 @@
 </h1>
 
 <h4 align="center">
-  <h2>Victor Luis - Responsive</h2>
+  <p>Victor Luis - Responsive</p>
   
   <p>Projeto feito com React JS, HTML e CSS.</p>
 
