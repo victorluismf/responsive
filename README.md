@@ -16,9 +16,10 @@
   <img alt="Scene" src="https://ik.imagekit.io/victorluismf/Responsive-Image_qziVxCAdyy.png?updatedAt=1638817885757">
 </p>
 
-## :rocket: Check it Out
-
-Acesse aqui: https://victorluismf.github.io/responsive/
+## :rocket: Acesse aqui
+<h4 align="center">
+    <p>Link: https://victorluismf.github.io/responsive/</p> 👋
+</h4>
 
 <h4 align="center">
     <a href="https://www.linkedin.com/in/victorluismf/" target="_blank">Victor Luis</a> 👋
