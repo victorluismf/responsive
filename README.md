@@ -27,5 +27,5 @@ This project is under the MIT license. See the [LICENSE](https://github.com/rafa
 ---
 
 <h4 align="center">
-    <a href="https://www.linkedin.com/in/victorluismf/" target="_blank">Victor Luis</a>
+    <a href="https://www.linkedin.com/in/victorluismf/" target="_blank">Victor Luis</a> 👋
 </h4>
