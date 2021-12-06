@@ -8,7 +8,7 @@
   
   <p>Projeto feito com React JS, HTML e CSS.</p>
 
-  <p>O objetivo era colocar em prática algumas técnicas de responsividade que desenvolvi.</p>
+  <p>Objetivo: Praticar algumas técnicas de responsividade que desenvolvi.</p>
   
 </h4>
 
