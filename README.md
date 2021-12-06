@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Logo" src="https://ik.imagekit.io/victorluismf/readme-github_XH4rnt1rq6g.png?updatedAt=1638815950306" />
+    <img alt="Logo" src="https://ik.imagekit.io/victorluismf/Readme_HB9uIKTDaq.png?updatedAt=1638816663490" />
     <br>
 </h1>
 
