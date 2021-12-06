@@ -22,13 +22,11 @@ Este projeto foi desenvolvido com as seguintes técnologias:
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [VS Code][vc]
+- [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
 
 ## :eyes: Check it Out
 
-You can try it here:
-
-- [Victor Luis - Responsive][demo]
+Acesse aqui: https://victorluismf.github.io/responsive/
 
 ## :memo: License
 
@@ -39,5 +37,3 @@ This project is under the MIT license. See the [LICENSE](https://github.com/rafa
 <h4 align="center">
     Victor Luis 👋 <a href="https://www.linkedin.com/in/victorluismf/" target="_blank">Check meu linkedin!</a>
 </h4>
-
-Acesse aqui: https://victorluismf.github.io/responsive/
