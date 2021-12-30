@@ -6,7 +6,9 @@
 <h4 align="center">
   <p>Victor Luis - Responsive</p>
   
-  <p>Projeto feito com React JS, HTML e CSS.</p>
+  <p>Técnologias: JavaScript, HTML, CSS e React JS.</p>
+    
+  <p>Responsivo: Sim</p>
 
   <p>O objetivo era praticar algumas técnicas de responsividade que desenvolvi.</p>
   <br>
