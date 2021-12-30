@@ -8,7 +8,7 @@
   
   <p>Técnologias: JavaScript, HTML, CSS e React JS.</p>
     
-  <p>Responsivo: Sim</p>
+  <p>Responsivo: Sim.</p>
 
   <p>Objetivo: Praticar técnicas de responsividade.</p>
   <br>
