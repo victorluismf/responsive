@@ -10,7 +10,7 @@
     
   <p>Responsivo: Sim</p>
 
-  <p>O objetivo era praticar algumas técnicas de responsividade que desenvolvi.</p>
+  <p>Objetivo: Praticar técnicas de responsividade.</p>
   <br>
 </h4>
 
