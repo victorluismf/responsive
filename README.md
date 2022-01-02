@@ -3,9 +3,11 @@
     <br>
 </h1>
 
+<h2 align="center">
+    Victor Luis - Responsive
+</h2>
+
 <h4 align="center">
-  <p>Victor Luis - Responsive</p>
-  
   <p>Técnologias: JavaScript, HTML, CSS e React JS.</p>
     
   <p>Responsivo: Sim.</p>
